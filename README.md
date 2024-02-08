@@ -1,1 +1,1 @@
-# Breast Cacner Detection using Machine Learning Implementation #
+# Breast Cancer Detection using Machine Learning Implementation #
